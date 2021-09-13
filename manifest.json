@@ -8,7 +8,16 @@
       "artifact_id": "ap-south-1:ami-0e734c319287c4249",
       "packer_run_uuid": "9f3cfba9-913c-3cd9-049c-baf65ec9e4f9",
       "custom_data": null
+    },
+    {
+      "name": "AWS AMI Builder - oouve",
+      "builder_type": "amazon-ebs",
+      "build_time": 1631530081,
+      "files": null,
+      "artifact_id": "ap-south-1:ami-0cc498f6a72b78698",
+      "packer_run_uuid": "410e3df3-320f-2cd9-1bd6-8e1285d0567c",
+      "custom_data": null
     }
   ],
-  "last_run_uuid": "9f3cfba9-913c-3cd9-049c-baf65ec9e4f9"
+  "last_run_uuid": "410e3df3-320f-2cd9-1bd6-8e1285d0567c"
 }
